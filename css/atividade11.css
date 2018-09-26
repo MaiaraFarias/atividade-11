@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(212, 142, 240);
+}
+#titulo
+{
+    text-align: center;
+}
+#texto
+{
+    text-align: center;
+    background-color: rgb(212, 142, 240);
+
+}
+button {
+    background-color: rgb(167, 220, 236);
+}
